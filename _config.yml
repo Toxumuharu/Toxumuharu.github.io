@@ -22,8 +22,8 @@ authors:
     Tomoharu:
       name:           Tomoharu
       site:           https://toxumuharu.github.io/
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      avatar:         /assets/images/tomoharuIcon.jpg
+      bio:            "Hi, I am Tomoharu, iOS and Android developer:)"
       email:          wowthemesnet@gmail.com
 
 # Defaults
@@ -35,7 +35,7 @@ defaults:
     values:
       layout: post
       author: Tomoharu
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/tomoharuIcon.jpg
 
   # all pages
   - scope:

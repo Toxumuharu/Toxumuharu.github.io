@@ -7,16 +7,11 @@ It's still under constraction.
 <p align="center"> <img src="assets/images/screenshot.jpg" alt="DatePi    ckerImage" width="250" border="1"/> </p>
 
 ## Release History
-
 * 0.1.0
     * The trial release
 
 ## Meta
-
 Tomoharu - [https://github.com/Toxumuharu](https://github.com/Toxumuharu)
-
-<br>
-<br>
 
 #### Reference
 Jekyll Theme - Mundana by WowThemes.net<br>
